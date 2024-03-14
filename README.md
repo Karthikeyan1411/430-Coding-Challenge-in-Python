@@ -4,7 +4,8 @@
 The entire repository used only <b>Python Language</b>. If any candidate or other persons or strangers, whoever just looking for how to do code just explore this place. You will get the solution may be.</p> 
 <h3>Face Any Challenges</h3>
 <p>If you face any challenges or need solution for some code. Try to put your thoughts or need solution or facing challenges through <b>Issues</b> tab. Or contact me through 
-  <b><a href = "E-mail: karthikeyan1411m@gmail.com"></a></b></p>
+  <a href = "E-mail: karthikeyan1411m@gmail.com"></a>
+</p>
 <h4>Conclusion</h4>
 <p>I will upload the coding sheet also. Which it shows the problem and practice area for you. Try to make a use of it and solve yourself first. If you are facing challenges then make use of the solution section or post your problems in issues tab or through mail.</p>
 
