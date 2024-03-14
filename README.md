@@ -16,4 +16,4 @@ The entire repository used only <b>Python Language</b>. If any candidate or othe
 ## Badges
 | Names | Badges |
 | ----- | ------ |
-| Codacy | [[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e5627c91dcf4f3c8cefb529ee677108)](https://app.codacy.com/gh/Karthikeyan1411/430-Coding-Challenge-in-Python/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) |
+| Codacy | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e5627c91dcf4f3c8cefb529ee677108)](https://app.codacy.com/gh/Karthikeyan1411/430-Coding-Challenge-in-Python/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) |
