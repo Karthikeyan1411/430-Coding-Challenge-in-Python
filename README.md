@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/079deaca3d09496dad1861b3591983f7)](https://app.codacy.com/gh/Karthikeyan1411/430-Coding-Challenge-in-Python?utm_source=github.com&utm_medium=referral&utm_content=Karthikeyan1411/430-Coding-Challenge-in-Python&utm_campaign=Badge_Grade)
+
 <h1>430-Coding-Challenge-in-Python</h1>
 <h2>Basic Problems Only</h2>
 <p>In this repository, I will create maximum what I could able to solve the challenges which is mostly asking in placements or in offcampuses.
